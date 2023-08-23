@@ -1,9 +1,6 @@
 # Testimonials
 Simple Testimonial web page created by react JS
 
-
-# Top-Courses
-It is a simple course informer in which you can also like and remove the like of the course. It is used to understand the concepts of useEffect,useState hooks of react JS. The data has been brought through an API.
 # React & Tailwind CSS Starter Pack
 
 This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
