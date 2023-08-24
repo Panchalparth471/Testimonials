@@ -32,4 +32,4 @@ The project is set up to use `postcss-cli` to process your CSS files. You can ad
 # Sreenshots
  <img src="Screenshot 2023-08-24 215812.png">
 
-<img src="Screenshot 2023-08-24 215817.png">
+<img src="Screenshot 2023-08-24 215845.png">
