@@ -30,7 +30,6 @@ This starter pack includes a basic setup for using **Tailwind CSS with React**. 
 The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
 
 # Sreenshots
+ <img src="Screenshot 2023-08-24 215812.png">
 
-<img src="Screenshot 2023-08-24 215812.png" alt="ss1">
-
-<img src="Screenshot 2023-08-24 215817.png" alt="ss2">
+<img src="Screenshot 2023-08-24 215817.png">
