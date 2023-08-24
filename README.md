@@ -31,6 +31,6 @@ The project is set up to use `postcss-cli` to process your CSS files. You can ad
 
 # Sreenshots
 
-<img src="Screenshot 2023-08-24 215850.png" alt="ss1">
+<img src="Screenshot 2023-08-24 215812.png" alt="ss1">
 
 <img src="Screenshot 2023-08-24 215817.png" alt="ss2">
